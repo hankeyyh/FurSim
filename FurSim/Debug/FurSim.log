@@ -1,0 +1,55 @@
+﻿  源.cpp
+c:\users\yyh\documents\github\fursim\fursim\源.cpp(60): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\yyh\documents\github\fursim\fursim\源.cpp(154): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\yyh\documents\github\fursim\fursim\源.cpp(235): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\yyh\documents\github\fursim\fursim\源.cpp(354): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\yyh\documents\github\fursim\fursim\源.cpp(579): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyh\documents\github\fursim\fursim\源.cpp(581): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyh\documents\github\fursim\fursim\源.cpp(608): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\yyh\documents\github\fursim\fursim\源.cpp(633): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyh\documents\github\fursim\fursim\源.cpp(635): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyh\documents\github\fursim\fursim\源.cpp(663): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyh\documents\github\fursim\fursim\源.cpp(665): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyh\documents\github\fursim\fursim\源.cpp(961): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\yyh\documents\github\fursim\fursim\源.cpp(962): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Window.cpp
+c:\users\yyh\documents\github\fursim\fursim\window.cpp(48): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  Vertex.cpp
+c:\users\yyh\documents\github\fursim\fursim\vertex.cpp(9): warning C4305: “=”: 从“double”到“float”截断
+  Sphere.cpp
+c:\users\yyh\documents\github\fursim\fursim\sphere.cpp(50): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\yyh\documents\github\fursim\fursim\sphere.cpp(51): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\yyh\documents\github\fursim\fursim\sphere.cpp(52): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+c:\users\yyh\documents\github\fursim\fursim\sphere.cpp(56): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\yyh\documents\github\fursim\fursim\sphere.cpp(57): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\yyh\documents\github\fursim\fursim\sphere.cpp(58): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  WindField.cpp
+  FTLNew.cpp
+  ShaderYH.cpp
+  Program.cpp
+  ISimulation.cpp
+c:\users\yyh\documents\github\fursim\fursim\isimulation.cpp(13): warning C4068: 未知的杂注
+  Helper.cpp
+c:\users\yyh\documents\github\fursim\fursim\helper.cpp(6): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\yyh\documents\github\fursim\fursim\helper.cpp(7): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\yyh\documents\github\fursim\fursim\helper.cpp(8): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  HairFactory.cpp
+c:\users\yyh\documents\github\fursim\fursim\hairfactory.cpp(24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\yyh\documents\github\fursim\fursim\hairfactory.cpp(25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\yyh\documents\github\fursim\fursim\hairfactory.cpp(61): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\yyh\documents\github\fursim\fursim\hairfactory.cpp(111): warning C4305: “+=”: 从“double”到“float”截断
+c:\users\yyh\documents\github\fursim\fursim\hairfactory.cpp(132): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\yyh\documents\github\fursim\fursim\hairfactory.cpp(139): warning C4305: “+=”: 从“double”到“float”截断
+c:\users\yyh\documents\github\fursim\fursim\hairfactory.cpp(158): warning C4305: “参数”: 从“double”到“float”截断
+  CollisionHandler.cpp
+c:\users\yyh\documents\github\fursim\fursim\collisionhandler.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyh\documents\github\fursim\fursim\collisionhandler.cpp(71): warning C4018: “<”: 有符号/无符号不匹配
+  common.cpp
+  正在生成代码...
+  SOIL2.c
+  image_helper.c
+  image_DXT.c
+  etc1_utils.c
+  正在生成代码...
+  FurSim.vcxproj -> C:\Users\yyh\Documents\GitHub\FurSim\Debug\FurSim.exe
+  FurSim.vcxproj -> C:\Users\yyh\Documents\GitHub\FurSim\Debug\FurSim.pdb (Partial PDB)

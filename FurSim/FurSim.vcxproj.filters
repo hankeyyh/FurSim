@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="sim">
+      <UniqueIdentifier>{6e418468-4764-43b7-81c5-bf0a01b5e50a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SOIL2">
+      <UniqueIdentifier>{7ec1dea8-0500-48c6-a300-a7e6e3507b63}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HairFactory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ISimulation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Program.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderYH.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Vertex.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sim\FTLNew.cpp">
+      <Filter>sim</Filter>
+    </ClCompile>
+    <ClCompile Include="sim\WindField.cpp">
+      <Filter>sim</Filter>
+    </ClCompile>
+    <ClCompile Include="..\SOIL2\src\SOIL2\etc1_utils.c">
+      <Filter>SOIL2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\SOIL2\src\SOIL2\image_DXT.c">
+      <Filter>SOIL2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\SOIL2\src\SOIL2\image_helper.c">
+      <Filter>SOIL2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\SOIL2\src\SOIL2\SOIL2.c">
+      <Filter>SOIL2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\SOIL2\src\common\common.cpp">
+      <Filter>SOIL2</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionHandler.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Helper.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sphere.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HairFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ISimulation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Program.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderYH.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Vertex.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sim\FTLNew.h">
+      <Filter>sim</Filter>
+    </ClInclude>
+    <ClInclude Include="sim\WindField.h">
+      <Filter>sim</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SOIL2\src\SOIL2\etc1_utils.h">
+      <Filter>SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SOIL2\src\SOIL2\image_DXT.h">
+      <Filter>SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SOIL2\src\SOIL2\image_helper.h">
+      <Filter>SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SOIL2\src\SOIL2\jo_jpeg.h">
+      <Filter>SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SOIL2\src\SOIL2\pkm_helper.h">
+      <Filter>SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SOIL2\src\SOIL2\pvr_helper.h">
+      <Filter>SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SOIL2\src\SOIL2\SOIL2.h">
+      <Filter>SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SOIL2\src\SOIL2\stb_image.h">
+      <Filter>SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SOIL2\src\SOIL2\stb_image_write.h">
+      <Filter>SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SOIL2\src\SOIL2\stbi_DDS.h">
+      <Filter>SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SOIL2\src\SOIL2\stbi_DDS_c.h">
+      <Filter>SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SOIL2\src\SOIL2\stbi_ext.h">
+      <Filter>SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SOIL2\src\SOIL2\stbi_ext_c.h">
+      <Filter>SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SOIL2\src\SOIL2\stbi_pkm.h">
+      <Filter>SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SOIL2\src\SOIL2\stbi_pkm_c.h">
+      <Filter>SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SOIL2\src\SOIL2\stbi_pvr.h">
+      <Filter>SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SOIL2\src\SOIL2\stbi_pvr_c.h">
+      <Filter>SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SOIL2\src\common\common.hpp">
+      <Filter>SOIL2</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionHandler.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Helper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Sphere.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
