@@ -1,4 +1,37 @@
-﻿  源.cpp
+﻿  common.cpp
+  CollisionHandler.cpp
+CollisionHandler.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+CollisionHandler.cpp(71): warning C4018: “<”: 有符号/无符号不匹配
+  HairFactory.cpp
+HairFactory.cpp(24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+HairFactory.cpp(25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+HairFactory.cpp(61): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+HairFactory.cpp(111): warning C4305: “+=”: 从“double”到“float”截断
+HairFactory.cpp(132): warning C4305: “参数”: 从“double”到“float”截断
+HairFactory.cpp(139): warning C4305: “+=”: 从“double”到“float”截断
+HairFactory.cpp(158): warning C4305: “参数”: 从“double”到“float”截断
+  Helper.cpp
+Helper.cpp(6): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+Helper.cpp(7): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+Helper.cpp(8): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  ISimulation.cpp
+ISimulation.cpp(13): warning C4068: 未知的杂注
+  Program.cpp
+  ShaderYH.cpp
+  FTLNew.cpp
+  WindField.cpp
+  Sphere.cpp
+Sphere.cpp(50): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+Sphere.cpp(51): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+Sphere.cpp(52): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+Sphere.cpp(56): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+Sphere.cpp(57): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+Sphere.cpp(58): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  Vertex.cpp
+Vertex.cpp(9): warning C4305: “=”: 从“double”到“float”截断
+  Window.cpp
+Window.cpp(48): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  源.cpp
 源.cpp(60): warning C4305: “初始化”: 从“double”到“float”截断
 源.cpp(143): warning C4305: “初始化”: 从“double”到“float”截断
 源.cpp(224): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
@@ -12,10 +45,14 @@
 源.cpp(636): warning C4018: “<”: 有符号/无符号不匹配
 源.cpp(932): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
 源.cpp(933): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  etc1_utils.c
+  image_DXT.c
+  image_helper.c
+  SOIL2.c
   正在生成代码
-  0 of 2596 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    37 functions had inline decision re-evaluated but remain unchanged
+  2582 of 2596 functions (99.5%) were compiled, the rest were copied from previous compilation.
+    42 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
-  FurSim.vcxproj -> C:\Users\yyh\Documents\GitHub\FurSim\Release\FurSim.exe
-  FurSim.vcxproj -> C:\Users\yyh\Documents\GitHub\FurSim\Release\FurSim.pdb (Full PDB)
+  FurSim.vcxproj -> D:\GitHub\FurSim\Release\FurSim.exe
+  FurSim.vcxproj -> D:\GitHub\FurSim\Release\FurSim.pdb (Full PDB)
