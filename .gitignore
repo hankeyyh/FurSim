@@ -41,7 +41,8 @@
 *.VisualState.xml
 TestResult.xml
 
-
+*.obj.zip
+*.zip
 *_i.c
 *_p.c
 *_i.h
