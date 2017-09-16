@@ -7,4 +7,4 @@ The project includes a simple wind field and a implementation of collision handl
 2. Collision handling algorithm is also simple, now it use a sphere-sphere collision model, if a srand of hair contacts the head sphere, just give
 a force along the normal of contact point. 
 ****
-![]()
+![](https://github.com/hanke100321/FurSim/tree/master/resources/ScreenShots/hair1.png)
