@@ -87,10 +87,6 @@ std::vector<glm::vec3> hair_pos;
 std::vector<glm::vec3> hair_prePos;
 std::vector<glm::vec2> hair_uv;
 
-//camera
-vec3 cameraPos(0, 0, 10);
-vec3 cameraTarg(0, 0, 0);
-vec3 cameraUp(0, 1, 0);
 
 //wind
 std::vector<vec3> windDiskPoses{ glm::vec3(0, -1, 4), glm::vec3(-1, 0, 2.5), glm::vec3(1, 0, 2.5) };
@@ -323,7 +319,6 @@ int main(int argc, char** argv)
 	ObjInfo scalpInfo;
 	readObj("../resources/scalp_0x.obj", scalpInfo);
 	hair = HairFactory::GrowHairOnDefinedPos(100, 0.06, scalpInfo.positions);
-	//hair = HairFactory::GrowHairOnRow(600, 100, 0.06);
 	readObj("../resources/MaleHead_0x.obj", headVertices, headIndices);
 
 	//create wind
