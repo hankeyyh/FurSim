@@ -1,4 +1,4 @@
-README
+FurSim
 =====================
 A practice project about Hair simulation based on [Fast Simulation of Inextensible Hair and Fur](http://matthias-mueller-fischer.ch/publications/FTLHairFur.pdf). 
 The project includes a simple wind field and a implementation of collision handling. UI is from [nanogui](https://github.com/wjakob/nanogui).
